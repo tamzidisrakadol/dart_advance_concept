@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(dart analyze:*)",
+      "Bash(dart:*)",
+      "Bash(/mnt/f/flutter/bin/dart analyze lib/Functions/callback_functions.dart)",
+      "Bash(/mnt/f/flutter/bin/dart lib/recursive_functions.dart)",
+      "Bash(ls:*)",
+      "Bash(bash /mnt/f/flutter/bin/dart lib/recursive_functions.dart)",
+      "Bash(cmd.exe:*)",
+      "Bash(dos2unix:*)",
+      "Bash(/mnt/f/flutter/bin/dart analyze lib/recursive_functions.dart)"
+    ],
+    "deny": []
+  }
+}
