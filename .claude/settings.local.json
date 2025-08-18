@@ -10,7 +10,10 @@
       "Bash(bash /mnt/f/flutter/bin/dart lib/recursive_functions.dart)",
       "Bash(cmd.exe:*)",
       "Bash(dos2unix:*)",
-      "Bash(/mnt/f/flutter/bin/dart analyze lib/recursive_functions.dart)"
+      "Bash(/mnt/f/flutter/bin/dart analyze lib/recursive_functions.dart)",
+      "Bash(/mnt/f/flutter/bin/dart lib/FactoryConstructor/factory_constructor_examples.dart)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ],
     "deny": []
   }
